@@ -11,7 +11,6 @@ Page({
   },
   //事件处理函数
   bindViewTap: function() {
-    console.log('...')
     wx.navigateTo({
       url: '../info/info'
     })
