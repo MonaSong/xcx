@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/info/info"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#65d27d",
+    "navigationBarTitleText": "环环之韵",
+    "navigationBarTextStyle": "light",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#65d27d"
+  },
+  "tabBar": {
+    "color": "#65d27d",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "",
+        "selectedIconPath": ""
+      }
+    ]
+  }
+}
