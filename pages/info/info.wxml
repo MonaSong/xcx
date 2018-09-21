@@ -1,3 +1,5 @@
-<view class="container">
+<view class="container">i
+<button bindtap='backto'>返回上一页</button>
   你好
+
 </view>

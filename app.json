@@ -6,11 +6,11 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#65d27d",
-    "navigationBarTitleText": "环环之韵",
+    "navigationBarBackgroundColor": "#daa32f",
+    "navigationBarTitleText": "服装Design",
     "navigationBarTextStyle": "light",
     "enablePullDownRefresh": true,
-    "backgroundColor": "#65d27d"
+    "backgroundColor": "#daa32f"
   },
   "tabBar": {
     "color": "#65d27d",
